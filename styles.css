@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.min {
+  color: tomato;
+}
+
+.max {
+  color: limegreen;
+}
+
+button {
+  margin: 0 0.5rem;
+}
